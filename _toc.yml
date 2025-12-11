@@ -14,6 +14,9 @@ parts:
     - file: src/En/error_message_explainer_project.ipynb
     - file: src/En/event_management_platform.ipynb
     - file: src/En/password_manager_project.ipynb
+    - file: src/En/MiniHealthcareSystem.ipynb
+    - file: src/En/MiniSchoolManagementSystem.ipynb
+    - file: src/En/CMS.ipynb
 
     - file: src/Ar/e-Learning_Platform.ipynb
     - file: src/Ar/SpecificationsDocument-CVCreationPlatform.ipynb
@@ -21,6 +24,9 @@ parts:
     - file: src/Ar/error_message_explainer_project.ipynb
     - file: src/Ar/event_management_platform.ipynb
     - file: src/Ar/password_manager_project.ipynb
+    - file: src/Ar/MiniHealthcareSystem.ipynb
+    - file: src/Ar/MiniSchoolManagementSystem.ipynb
+    # - file: src/Ar/.ipynb
 
 
 
